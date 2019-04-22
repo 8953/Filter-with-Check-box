@@ -1,0 +1,16 @@
+p
+{
+	border-color: red yellow orange blue ;
+	font-size: 35px;
+	color: white;
+		
+}
+body
+{
+	margin-left: 450px;
+	margin-top: 150px;
+}
+strong
+{
+	color: black;
+}
